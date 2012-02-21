@@ -2,4 +2,5 @@
 
 This is the first application for [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/) by [Michael Hartl](http://michaelhartl.com/).
 
-Homework 2 change: Deloyed app on Heroku and added README.markdown link to index.html
+This is the first Heroku app for [*first_app*](http://quiet-cloud-2870.heroku.com/)
+
